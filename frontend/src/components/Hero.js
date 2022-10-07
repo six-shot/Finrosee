@@ -1,5 +1,5 @@
 import React from "react"
-import BG from "../Videos/video.mp4"
+import BG from "../Videos/bg.mp4"
 import Navbar from "./Navbar"
 import Type from "./Type"
 
