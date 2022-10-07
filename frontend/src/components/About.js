@@ -34,7 +34,7 @@ function About() {
             aliquid officiis accusantium deleniti iure possimus, in ducimus
             suscipit ab corporis dicta consequatur repelle ndus voluptates at
             sed nesciunt ipsum voluptatem odio velit, rerum sit. Esse ducimus
-            libero cum! Tempora ab repellendus, quibusdam, neque odit atque quis
+            libero cum! Tempora ab repellendus, quibusdam, neque oiidit atque quis
             iste sit, error eius quo.
           </p>
         </div>
