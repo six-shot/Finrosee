@@ -28,7 +28,7 @@ function About() {
        
         <div className="self-center w-[500px]">
           <h5>ABOUT FINROSE</h5>
-          <h1>WE HELP GET YOUR MONEY BACK</h1>
+          <h1 className="text-2xl font-extrabold tracking-[0.2rem] mt-2">WE HELP GET YOUR MONEY<br></br> BACK IN ONE TAP</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor
             aliquid officiis accusantium deleniti iure possimus, in ducimus
@@ -52,7 +52,7 @@ function About() {
         </div>
         <div className="self-center w-[500px]">
           <h5>ABOUT FINROSE</h5>
-          <h1>WE HELP GET YOUR MONEY BACK</h1>
+          <h1 className="text-2xl font-extrabold tracking-[0.2rem] mt-2">WE HELP GET YOUR MONEY<br></br> BACK IN ONE TAP</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor
             aliquid officiis accusantium deleniti iure possimus, in ducimus
@@ -68,7 +68,7 @@ function About() {
        
         <div className="self-center w-[500px]">
           <h5>ABOUT FINROSE</h5>
-          <h1>WE HELP GET YOUR MONEY BACK</h1>
+          <h1 className="text-2xl font-extrabold tracking-[0.2rem] mt-2">WE HELP GET YOUR MONEY<br></br> BACK IN ONE TAP</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor
             aliquid officiis accusantium deleniti iure possimus, in ducimus
