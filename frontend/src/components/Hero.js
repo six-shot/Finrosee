@@ -7,7 +7,7 @@ import Type from "./Type"
 function Loader() {
   return (
     <>
-      <div className='relative  h-[100vh] text-white '>
+      <div className='relative w-[100%]  h-[100vh] text-white '>
         <div className='absolute top-0 left-0 w-full h-full overflow-hidden bg-black'>
           <video
             className='min-h-full min-w-full absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] object-cover'
@@ -19,13 +19,14 @@ function Loader() {
             <source src={BG} />
           </video>
         </div>
+        <Navbar />
         <div className='absolute z-10'>
-          <Navbar />
+    
           <div className='ml-6 flex flex-col justify-center items-start mt-[120px] '>
-            <h1 className='text-[4rem] leading-[4rem] uppercase'>
+            <h1 className='text-[2rem] sm:text-[4rem] leading-[4rem] uppercase'>
               Been Debited <br></br> for no reason
             </h1>
-            <p className='tracking-[0.3rem]'>
+            <p className='tracking-[0.3rem] w-[100%]'>
               GET YOUR MONEY BACK ALL IN ONE TAP <br></br>WITHOUT STRESSING TO
               LEAVE YOUR HOUSE TODAY
             </p>

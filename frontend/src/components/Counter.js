@@ -10,7 +10,7 @@ function Counter() {
         onEnter={() => setCounterOn(true)}
         onExit={() => setCounterOn(false)}
       >
-        <div className=' ml-6 flex w-[94vw] justify-between py-[50px] px-[20px] '>
+        <div className=' ml-6 flex w-[94vw] justify-between py-[60px] px-[20px] '>
           <div>
             <h3 className="text-3xl">
               {counterOn && (
